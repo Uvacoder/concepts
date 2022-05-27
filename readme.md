@@ -1,5 +1,7 @@
 # Concepts 💭 around building software
 
+![demo](./screenshot-concepts.png)
+
 A living collection of concepts, techniques, tools and frameworks on developing software.
 
 ## Table of Contents
